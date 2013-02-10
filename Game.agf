@@ -50,9 +50,9 @@
       <HasMODMusic>False</HasMODMusic>
       <GameExplorerEnabled>True</GameExplorerEnabled>
       <Description xml:space="preserve">Maniac Mansion Mania-Template (Sandy Starterpack)</Description>
-      <ReleaseDate>2008-05-18</ReleaseDate>
+      <ReleaseDate>2013-02-10</ReleaseDate>
       <Genre>Adventure</Genre>
-      <Version>1.0.0.0</Version>
+      <Version>1.6.0.0</Version>
       <WindowsExperienceIndex>1</WindowsExperienceIndex>
       <DeveloperName>Rulaman</DeveloperName>
       <DeveloperURL />
@@ -14169,7 +14169,7 @@
         <FileName>KeyCodes.asc</FileName>
         <Name />
         <Description />
-        <Author />
+        <Author>rulaman</Author>
         <Version />
         <Key>729759395</Key>
         <IsHeader>False</IsHeader>
@@ -14187,7 +14187,7 @@
         <FileName>playerExtends.asc</FileName>
         <Name />
         <Description />
-        <Author />
+        <Author>rulaman</Author>
         <Version />
         <Key>2105497735</Key>
         <IsHeader>False</IsHeader>
@@ -14223,7 +14223,7 @@
         <FileName>Doors.asc</FileName>
         <Name />
         <Description />
-        <Author />
+        <Author>rulaman</Author>
         <Version />
         <Key>12208054</Key>
         <IsHeader>False</IsHeader>
