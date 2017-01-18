@@ -30,7 +30,7 @@
       <InventoryHotspotMarkerCrosshairColor>0</InventoryHotspotMarkerCrosshairColor>
       <WalkInLookMode>False</WalkInLookMode>
       <AntiGlideMode>False</AntiGlideMode>
-      <DebugMode>False</DebugMode>
+      <DebugMode>True</DebugMode>
       <InventoryCursors>True</InventoryCursors>
       <HandleInvClicksInScript>True</HandleInvClicksInScript>
       <DisplayMultipleInventory>False</DisplayMultipleInventory>
