@@ -3947,7 +3947,6 @@
                     <Sprites>
                       <Sprite Slot="363" Width="22" Height="76" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                       <Sprite Slot="364" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                      <Sprite Slot="759" Width="22" Height="76" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                     </Sprites>
                   </SpriteFolder>
                 </SubFolders>
@@ -4081,7 +4080,23 @@
                 </Sprites>
               </SpriteFolder>
               <SpriteFolder Name="Marcy">
-                <SubFolders />
+                <SubFolders>
+                  <SpriteFolder Name="Talk">
+                    <SubFolders />
+                    <Sprites>
+                      <Sprite Slot="139" Width="26" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>E:\DATEN\AGS\_Bilder\MMM\Marcy\cMarcy-unten-T.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="154" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>E:\DATEN\AGS\_Bilder\MMM\Marcy\CMarcy-Seite-T.png</FileName>
+                        </Source>
+                      </Sprite>
+                    </Sprites>
+                  </SpriteFolder>
+                </SubFolders>
                 <Sprites>
                   <Sprite Slot="128" Width="26" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                   <Sprite Slot="129" Width="26" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
@@ -4093,11 +4108,6 @@
                   <Sprite Slot="135" Width="26" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                   <Sprite Slot="136" Width="26" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                   <Sprite Slot="138" Width="26" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="139" Width="26" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
-                    <Source>
-                      <FileName>E:\DATEN\AGS\_Bilder\MMM\Marcy\cMarcy-unten-T.png</FileName>
-                    </Source>
-                  </Sprite>
                   <Sprite Slot="140" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                   <Sprite Slot="141" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                   <Sprite Slot="145" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
@@ -4107,11 +4117,6 @@
                   <Sprite Slot="151" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                   <Sprite Slot="152" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                   <Sprite Slot="153" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="154" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
-                    <Source>
-                      <FileName>E:\DATEN\AGS\_Bilder\MMM\Marcy\CMarcy-Seite-T.png</FileName>
-                    </Source>
-                  </Sprite>
                 </Sprites>
               </SpriteFolder>
               <SpriteFolder Name="Sandy rot">
@@ -4307,7 +4312,15 @@
                 </Sprites>
               </SpriteFolder>
               <SpriteFolder Name="Dr. Fred">
-                <SubFolders />
+                <SubFolders>
+                  <SpriteFolder Name="Talk">
+                    <SubFolders />
+                    <Sprites>
+                      <Sprite Slot="604" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                      <Sprite Slot="605" Width="29" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                    </Sprites>
+                  </SpriteFolder>
+                </SubFolders>
                 <Sprites>
                   <Sprite Slot="517" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                   <Sprite Slot="518" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
@@ -4328,8 +4341,6 @@
                   <Sprite Slot="601" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                   <Sprite Slot="602" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                   <Sprite Slot="603" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="604" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="605" Width="29" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                 </Sprites>
               </SpriteFolder>
               <SpriteFolder Name="Nurse Edna">
@@ -4537,19 +4548,19 @@
                   <SpriteFolder Name="Talk">
                     <SubFolders />
                     <Sprites>
-                      <Sprite Slot="1223" Width="28" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                      <Sprite Slot="1223" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                       <Sprite Slot="1224" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                     </Sprites>
                   </SpriteFolder>
                 </SubFolders>
                 <Sprites>
-                  <Sprite Slot="1208" Width="28" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1208" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                   <Sprite Slot="1209" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                   <Sprite Slot="1210" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                   <Sprite Slot="1211" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                   <Sprite Slot="1212" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                   <Sprite Slot="1213" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="1214" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1214" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                   <Sprite Slot="1215" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                   <Sprite Slot="1216" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                   <Sprite Slot="1217" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
@@ -7175,7 +7186,7 @@
                   </ViewFrame>
                   <ViewFrame>
                     <ID>1</ID>
-                    <Image>759</Image>
+                    <Image>363</Image>
                     <Flipped>False</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
