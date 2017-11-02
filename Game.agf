@@ -1783,7 +1783,7 @@
                 <TextAlignment>TopMiddle</TextAlignment>
                 <TextColor>1</TextColor>
                 <Font>0</Font>
-                <Text xml:space="preserve">Sind Sie sicher, das Sie neustarten wollen? (J/N)</Text>
+                <Text xml:space="preserve">Sind Sie sicher, dass Sie neustarten wollen? (J/N)</Text>
                 <Height>9</Height>
                 <Locked>False</Locked>
                 <Width>270</Width>
@@ -14501,7 +14501,6 @@
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music10.mid</SourceFileName>
                 <ScriptName>aMusic10</ScriptName>
                 <Index>2</Index>
@@ -14510,10 +14509,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music11.mid</SourceFileName>
                 <ScriptName>aMusic11</ScriptName>
                 <Index>3</Index>
@@ -14522,10 +14521,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music13.mid</SourceFileName>
                 <ScriptName>aMusic13</ScriptName>
                 <Index>4</Index>
@@ -14534,10 +14533,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music14.mid</SourceFileName>
                 <ScriptName>aMusic14</ScriptName>
                 <Index>5</Index>
@@ -14546,10 +14545,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music15.mid</SourceFileName>
                 <ScriptName>aMusic15</ScriptName>
                 <Index>6</Index>
@@ -14558,10 +14557,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music16.mid</SourceFileName>
                 <ScriptName>aMusic16</ScriptName>
                 <Index>7</Index>
@@ -14570,10 +14569,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music17.mid</SourceFileName>
                 <ScriptName>aMusic17</ScriptName>
                 <Index>8</Index>
@@ -14582,10 +14581,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music18.mid</SourceFileName>
                 <ScriptName>aMusic18</ScriptName>
                 <Index>9</Index>
@@ -14594,10 +14593,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music19.mid</SourceFileName>
                 <ScriptName>aMusic19</ScriptName>
                 <Index>10</Index>
@@ -14606,10 +14605,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music2.mid</SourceFileName>
                 <ScriptName>aMusic2</ScriptName>
                 <Index>11</Index>
@@ -14618,10 +14617,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music20.mid</SourceFileName>
                 <ScriptName>aMusic20</ScriptName>
                 <Index>12</Index>
@@ -14630,10 +14629,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music21.mid</SourceFileName>
                 <ScriptName>aMusic21</ScriptName>
                 <Index>13</Index>
@@ -14642,10 +14641,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music22.mid</SourceFileName>
                 <ScriptName>aMusic22</ScriptName>
                 <Index>14</Index>
@@ -14654,10 +14653,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music23.mid</SourceFileName>
                 <ScriptName>aMusic23</ScriptName>
                 <Index>15</Index>
@@ -14666,10 +14665,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music24.mid</SourceFileName>
                 <ScriptName>aMusic24</ScriptName>
                 <Index>16</Index>
@@ -14678,10 +14677,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music25.mid</SourceFileName>
                 <ScriptName>aMusic25</ScriptName>
                 <Index>17</Index>
@@ -14690,10 +14689,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music26.mid</SourceFileName>
                 <ScriptName>aMusic26</ScriptName>
                 <Index>18</Index>
@@ -14702,10 +14701,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music27.mid</SourceFileName>
                 <ScriptName>aMusic27</ScriptName>
                 <Index>19</Index>
@@ -14714,10 +14713,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music28.mid</SourceFileName>
                 <ScriptName>aMusic28</ScriptName>
                 <Index>20</Index>
@@ -14726,10 +14725,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music29.mid</SourceFileName>
                 <ScriptName>aMusic29</ScriptName>
                 <Index>21</Index>
@@ -14738,10 +14737,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music3.mid</SourceFileName>
                 <ScriptName>aMusic3</ScriptName>
                 <Index>22</Index>
@@ -14750,10 +14749,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music30.mid</SourceFileName>
                 <ScriptName>aMusic30</ScriptName>
                 <Index>23</Index>
@@ -14762,10 +14761,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music31.mid</SourceFileName>
                 <ScriptName>aMusic31</ScriptName>
                 <Index>24</Index>
@@ -14774,10 +14773,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music32.mid</SourceFileName>
                 <ScriptName>aMusic32</ScriptName>
                 <Index>25</Index>
@@ -14786,10 +14785,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music33.mid</SourceFileName>
                 <ScriptName>aMusic33</ScriptName>
                 <Index>26</Index>
@@ -14798,10 +14797,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music34.mid</SourceFileName>
                 <ScriptName>aMusic34</ScriptName>
                 <Index>27</Index>
@@ -14810,10 +14809,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music35.mid</SourceFileName>
                 <ScriptName>aMusic35</ScriptName>
                 <Index>28</Index>
@@ -14822,10 +14821,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music36.mid</SourceFileName>
                 <ScriptName>aMusic36</ScriptName>
                 <Index>29</Index>
@@ -14834,10 +14833,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music37.mid</SourceFileName>
                 <ScriptName>aMusic37</ScriptName>
                 <Index>30</Index>
@@ -14846,10 +14845,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music38.mid</SourceFileName>
                 <ScriptName>aMusic38</ScriptName>
                 <Index>31</Index>
@@ -14858,10 +14857,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music39.mid</SourceFileName>
                 <ScriptName>aMusic39</ScriptName>
                 <Index>32</Index>
@@ -14870,10 +14869,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music4.mid</SourceFileName>
                 <ScriptName>aMusic4</ScriptName>
                 <Index>33</Index>
@@ -14882,10 +14881,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music40.mid</SourceFileName>
                 <ScriptName>aMusic40</ScriptName>
                 <Index>34</Index>
@@ -14894,10 +14893,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music41.mid</SourceFileName>
                 <ScriptName>aMusic41</ScriptName>
                 <Index>35</Index>
@@ -14906,10 +14905,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music42.mid</SourceFileName>
                 <ScriptName>aMusic42</ScriptName>
                 <Index>36</Index>
@@ -14918,10 +14917,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music43.mid</SourceFileName>
                 <ScriptName>aMusic43</ScriptName>
                 <Index>37</Index>
@@ -14930,10 +14929,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music44.mid</SourceFileName>
                 <ScriptName>aMusic44</ScriptName>
                 <Index>38</Index>
@@ -14942,10 +14941,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music45.mid</SourceFileName>
                 <ScriptName>aMusic45</ScriptName>
                 <Index>39</Index>
@@ -14954,10 +14953,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music46.mid</SourceFileName>
                 <ScriptName>aMusic46</ScriptName>
                 <Index>40</Index>
@@ -14966,10 +14965,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music47.mid</SourceFileName>
                 <ScriptName>aMusic47</ScriptName>
                 <Index>41</Index>
@@ -14978,10 +14977,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music48.mid</SourceFileName>
                 <ScriptName>aMusic48</ScriptName>
                 <Index>42</Index>
@@ -14990,10 +14989,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music49.mid</SourceFileName>
                 <ScriptName>aMusic49</ScriptName>
                 <Index>43</Index>
@@ -15002,10 +15001,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music5.mid</SourceFileName>
                 <ScriptName>aMusic5</ScriptName>
                 <Index>44</Index>
@@ -15014,10 +15013,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music50.mid</SourceFileName>
                 <ScriptName>aMusic50</ScriptName>
                 <Index>45</Index>
@@ -15026,10 +15025,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music51.mid</SourceFileName>
                 <ScriptName>aMusic51</ScriptName>
                 <Index>46</Index>
@@ -15038,10 +15037,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music52.mid</SourceFileName>
                 <ScriptName>aMusic52</ScriptName>
                 <Index>47</Index>
@@ -15050,10 +15049,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music53.mid</SourceFileName>
                 <ScriptName>aMusic53</ScriptName>
                 <Index>48</Index>
@@ -15062,10 +15061,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music6.mid</SourceFileName>
                 <ScriptName>aMusic6</ScriptName>
                 <Index>49</Index>
@@ -15074,10 +15073,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music7.mid</SourceFileName>
                 <ScriptName>aMusic7</ScriptName>
                 <Index>50</Index>
@@ -15086,10 +15085,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music8.mid</SourceFileName>
                 <ScriptName>aMusic8</ScriptName>
                 <Index>51</Index>
@@ -15098,10 +15097,10 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>music\music9.mid</SourceFileName>
                 <ScriptName>aMusic9</ScriptName>
                 <Index>52</Index>
@@ -15110,6 +15109,7 @@
                 <FileType>MIDI</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
@@ -15125,7 +15125,6 @@
             <SubFolders />
             <AudioClips>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound1.ogg</SourceFileName>
                 <ScriptName>aSound1</ScriptName>
                 <Index>53</Index>
@@ -15134,10 +15133,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound11.wav</SourceFileName>
                 <ScriptName>aSound11</ScriptName>
                 <Index>54</Index>
@@ -15146,10 +15145,10 @@
                 <FileType>WAV</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound12.wav</SourceFileName>
                 <ScriptName>aSound12</ScriptName>
                 <Index>55</Index>
@@ -15158,10 +15157,10 @@
                 <FileType>WAV</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound2.ogg</SourceFileName>
                 <ScriptName>aSound2</ScriptName>
                 <Index>56</Index>
@@ -15170,10 +15169,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound28.wav</SourceFileName>
                 <ScriptName>aSound28</ScriptName>
                 <Index>57</Index>
@@ -15182,10 +15181,10 @@
                 <FileType>WAV</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound3.ogg</SourceFileName>
                 <ScriptName>aSound3</ScriptName>
                 <Index>58</Index>
@@ -15194,10 +15193,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound30.wav</SourceFileName>
                 <ScriptName>aSound30</ScriptName>
                 <Index>59</Index>
@@ -15206,10 +15205,10 @@
                 <FileType>WAV</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound31.wav</SourceFileName>
                 <ScriptName>aSound31</ScriptName>
                 <Index>60</Index>
@@ -15218,10 +15217,10 @@
                 <FileType>WAV</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound32.wav</SourceFileName>
                 <ScriptName>aSound32</ScriptName>
                 <Index>61</Index>
@@ -15230,10 +15229,10 @@
                 <FileType>WAV</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound33.wav</SourceFileName>
                 <ScriptName>aSound33</ScriptName>
                 <Index>62</Index>
@@ -15242,10 +15241,10 @@
                 <FileType>WAV</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound35.ogg</SourceFileName>
                 <ScriptName>aSound35</ScriptName>
                 <Index>63</Index>
@@ -15254,10 +15253,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound36.ogg</SourceFileName>
                 <ScriptName>aSound36</ScriptName>
                 <Index>64</Index>
@@ -15266,10 +15265,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound37.ogg</SourceFileName>
                 <ScriptName>aSound37</ScriptName>
                 <Index>65</Index>
@@ -15278,10 +15277,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound38.ogg</SourceFileName>
                 <ScriptName>aSound38</ScriptName>
                 <Index>66</Index>
@@ -15290,10 +15289,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound39.ogg</SourceFileName>
                 <ScriptName>aSound39</ScriptName>
                 <Index>67</Index>
@@ -15302,10 +15301,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound4.ogg</SourceFileName>
                 <ScriptName>aSound4</ScriptName>
                 <Index>68</Index>
@@ -15314,10 +15313,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound40.ogg</SourceFileName>
                 <ScriptName>aSound40</ScriptName>
                 <Index>69</Index>
@@ -15326,10 +15325,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound41.ogg</SourceFileName>
                 <ScriptName>aSound41</ScriptName>
                 <Index>70</Index>
@@ -15338,10 +15337,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound42.ogg</SourceFileName>
                 <ScriptName>aSound42</ScriptName>
                 <Index>71</Index>
@@ -15350,10 +15349,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound43.ogg</SourceFileName>
                 <ScriptName>aSound43</ScriptName>
                 <Index>72</Index>
@@ -15362,10 +15361,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound44.ogg</SourceFileName>
                 <ScriptName>aSound44</ScriptName>
                 <Index>73</Index>
@@ -15374,10 +15373,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound45.ogg</SourceFileName>
                 <ScriptName>aSound45</ScriptName>
                 <Index>74</Index>
@@ -15386,10 +15385,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound46.ogg</SourceFileName>
                 <ScriptName>aSound46</ScriptName>
                 <Index>75</Index>
@@ -15398,10 +15397,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound47.ogg</SourceFileName>
                 <ScriptName>aSound47</ScriptName>
                 <Index>76</Index>
@@ -15410,10 +15409,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound48.ogg</SourceFileName>
                 <ScriptName>aSound48</ScriptName>
                 <Index>77</Index>
@@ -15422,10 +15421,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound5.ogg</SourceFileName>
                 <ScriptName>aSound5</ScriptName>
                 <Index>78</Index>
@@ -15434,10 +15433,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound50.ogg</SourceFileName>
                 <ScriptName>aSound50</ScriptName>
                 <Index>79</Index>
@@ -15446,10 +15445,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound51.ogg</SourceFileName>
                 <ScriptName>aSound51</ScriptName>
                 <Index>80</Index>
@@ -15458,10 +15457,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound58.ogg</SourceFileName>
                 <ScriptName>aSound58</ScriptName>
                 <Index>81</Index>
@@ -15470,10 +15469,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound59.ogg</SourceFileName>
                 <ScriptName>aSound59</ScriptName>
                 <Index>82</Index>
@@ -15482,10 +15481,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound60.ogg</SourceFileName>
                 <ScriptName>aSound60</ScriptName>
                 <Index>83</Index>
@@ -15494,10 +15493,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound61.ogg</SourceFileName>
                 <ScriptName>aSound61</ScriptName>
                 <Index>84</Index>
@@ -15506,10 +15505,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound62.ogg</SourceFileName>
                 <ScriptName>aSound62</ScriptName>
                 <Index>85</Index>
@@ -15518,10 +15517,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound63.ogg</SourceFileName>
                 <ScriptName>aSound63</ScriptName>
                 <Index>86</Index>
@@ -15530,10 +15529,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound64.ogg</SourceFileName>
                 <ScriptName>aSound64</ScriptName>
                 <Index>87</Index>
@@ -15542,10 +15541,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound65.ogg</SourceFileName>
                 <ScriptName>aSound65</ScriptName>
                 <Index>88</Index>
@@ -15554,10 +15553,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound66.ogg</SourceFileName>
                 <ScriptName>aSound66</ScriptName>
                 <Index>89</Index>
@@ -15566,10 +15565,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound67.ogg</SourceFileName>
                 <ScriptName>aSound67</ScriptName>
                 <Index>90</Index>
@@ -15578,10 +15577,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound68.ogg</SourceFileName>
                 <ScriptName>aSound68</ScriptName>
                 <Index>91</Index>
@@ -15590,10 +15589,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound69.ogg</SourceFileName>
                 <ScriptName>aSound69</ScriptName>
                 <Index>92</Index>
@@ -15602,10 +15601,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound70.ogg</SourceFileName>
                 <ScriptName>aSound70</ScriptName>
                 <Index>93</Index>
@@ -15614,10 +15613,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound71.ogg</SourceFileName>
                 <ScriptName>aSound71</ScriptName>
                 <Index>94</Index>
@@ -15626,10 +15625,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound72.ogg</SourceFileName>
                 <ScriptName>aSound72</ScriptName>
                 <Index>95</Index>
@@ -15638,10 +15637,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound73.ogg</SourceFileName>
                 <ScriptName>aSound73</ScriptName>
                 <Index>96</Index>
@@ -15650,10 +15649,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound74.ogg</SourceFileName>
                 <ScriptName>aSound74</ScriptName>
                 <Index>97</Index>
@@ -15662,10 +15661,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound75.ogg</SourceFileName>
                 <ScriptName>aSound75</ScriptName>
                 <Index>98</Index>
@@ -15674,10 +15673,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound76.ogg</SourceFileName>
                 <ScriptName>aSound76</ScriptName>
                 <Index>99</Index>
@@ -15686,10 +15685,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound77.ogg</SourceFileName>
                 <ScriptName>aSound77</ScriptName>
                 <Index>100</Index>
@@ -15698,10 +15697,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound78.ogg</SourceFileName>
                 <ScriptName>aSound78</ScriptName>
                 <Index>101</Index>
@@ -15710,10 +15709,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound79.ogg</SourceFileName>
                 <ScriptName>aSound79</ScriptName>
                 <Index>102</Index>
@@ -15722,10 +15721,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound8.ogg</SourceFileName>
                 <ScriptName>aSound8</ScriptName>
                 <Index>103</Index>
@@ -15734,10 +15733,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound81.ogg</SourceFileName>
                 <ScriptName>aSound81</ScriptName>
                 <Index>104</Index>
@@ -15746,10 +15745,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound82.ogg</SourceFileName>
                 <ScriptName>aSound82</ScriptName>
                 <Index>105</Index>
@@ -15758,10 +15757,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound83.ogg</SourceFileName>
                 <ScriptName>aSound83</ScriptName>
                 <Index>106</Index>
@@ -15770,10 +15769,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound84.ogg</SourceFileName>
                 <ScriptName>aSound84</ScriptName>
                 <Index>107</Index>
@@ -15782,10 +15781,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound85.ogg</SourceFileName>
                 <ScriptName>aSound85</ScriptName>
                 <Index>108</Index>
@@ -15794,10 +15793,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound86.ogg</SourceFileName>
                 <ScriptName>aSound86</ScriptName>
                 <Index>109</Index>
@@ -15806,10 +15805,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound87.ogg</SourceFileName>
                 <ScriptName>aSound87</ScriptName>
                 <Index>110</Index>
@@ -15818,10 +15817,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound88.ogg</SourceFileName>
                 <ScriptName>aSound88</ScriptName>
                 <Index>111</Index>
@@ -15830,10 +15829,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound89.ogg</SourceFileName>
                 <ScriptName>aSound89</ScriptName>
                 <Index>112</Index>
@@ -15842,10 +15841,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound90.ogg</SourceFileName>
                 <ScriptName>aSound90</ScriptName>
                 <Index>113</Index>
@@ -15854,10 +15853,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound91.ogg</SourceFileName>
                 <ScriptName>aSound91</ScriptName>
                 <Index>114</Index>
@@ -15866,10 +15865,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound92.ogg</SourceFileName>
                 <ScriptName>aSound92</ScriptName>
                 <Index>115</Index>
@@ -15878,10 +15877,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound93.ogg</SourceFileName>
                 <ScriptName>aSound93</ScriptName>
                 <Index>116</Index>
@@ -15890,10 +15889,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound94.ogg</SourceFileName>
                 <ScriptName>aSound94</ScriptName>
                 <Index>117</Index>
@@ -15902,10 +15901,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound95.ogg</SourceFileName>
                 <ScriptName>aSound95</ScriptName>
                 <Index>118</Index>
@@ -15914,10 +15913,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound96.ogg</SourceFileName>
                 <ScriptName>aSound96</ScriptName>
                 <Index>119</Index>
@@ -15926,10 +15925,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound97.ogg</SourceFileName>
                 <ScriptName>aSound97</ScriptName>
                 <Index>120</Index>
@@ -15938,10 +15937,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound98.ogg</SourceFileName>
                 <ScriptName>aSound98</ScriptName>
                 <Index>121</Index>
@@ -15950,10 +15949,10 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <DefaultRepeat>Inherit</DefaultRepeat>
                 <SourceFileName>sound\sound99.ogg</SourceFileName>
                 <ScriptName>aSound99</ScriptName>
                 <Index>122</Index>
@@ -15962,6 +15961,7 @@
                 <FileType>OGG</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-01-12 14:03:20Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
